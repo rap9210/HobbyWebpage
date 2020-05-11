@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    background-image: url("https://i.pinimg.com/564x/20/86/c4/2086c44dcb1027a332332a5dacd81d61.jpg");
+    background-size: 10%;
+    background-repeat: repeat-y;
+}
+p{
+    background-color: aqua;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+h1{
+    background-color: aqua;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+h3{
+    background: aqua;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+ul{
+    background: aqua;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+nav{
+    text-decoration-color: aqua;
+    margin-left: 10%;
+    margin-right: 50%;
+}
